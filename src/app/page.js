@@ -8,19 +8,19 @@ export default function Home() {
             <div class="slider-container">
                 <div class="slides">
                     <div class="slide active">
-                        <img src="https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 1">
+                        <img src="https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 1" />
                     </div>
                     <div class="slide">
-                        <img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 2">
+                        <img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 2" />
                     </div>
                     <div class="slide">
-                        <img src="https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 3">
+                        <img src="https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 3" />
                     </div>
                     <div class="slide">
-                        <img src="https://images.unsplash.com/photo-1606220838315-056192d5e927?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 4">
+                        <img src="https://images.unsplash.com/photo-1606220838315-056192d5e927?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 4" />
                     </div>
                     <div class="slide">
-                        <img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 5">
+                        <img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1920&h=1080" alt="Lüks Araba 5" />
                     </div>
                 </div>
                 
